@@ -27,3 +27,4 @@ pytest tests --alluredir=allure_results
 ``` shell
 allure serve allure_results
 ```# Diplom_3 (first commit)
+# Diplom_3
